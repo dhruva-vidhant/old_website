@@ -2,15 +2,14 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>My Website</title>
 <body>
 	<head>
 		<h1>My Website</h1>
 		<h3>Welcome to my webiste. The links below go to different pages of it.</h3>
 	</head>
 	<section>
-		<a href="index.html">My Second Page</a>
-		<a href="firstPage.html">My First Page</a>
+		<p><a href="index.html">My Second Page</a></p>
+		<p><a href="firstPage.html">My First Page</a></p>
 	</section>
 </body>
 </html>
