@@ -7,7 +7,7 @@
 <body>
 	<header>
 		<h1>My Website</h1>
-		<h3>Welcome to My webiste. The links below go to different pages of it.</h3>
+		<h3>Welcome to my webiste. The links below go to different pages of it.</h3>
 	</header>
 	<section>
 		<a href="index.html">My Second Page</a>
