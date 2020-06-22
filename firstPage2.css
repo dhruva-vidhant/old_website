@@ -1,3 +1,32 @@
+h1{
+	background-color:#EEFFFE;
+}
+header{
+	background-color:#AA99AA;
+	text-align:center;
+}
+a{
+	color:#111111;
+}
+h2{
+	background-color:#FEACEE;
+	text-align:center;
+	font-size:150%;
+}
+section{
+	background-color:#ECDEAB;
+}
 html{
-	color:green;
+	background-color:#EADCCA;
+	font-family:Comic Sans MS;
+}
+footer{
+	background-color:#EFFABD;
+}
+details{
+	font-style:italic;
+}
+summary{
+	font-style:normal;
+	font-family:serif;
 }
