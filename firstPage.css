@@ -1,13 +1,38 @@
-h1{
-	color:blue;
+body{
+	font-family:arial;
 }
-html{
-	background-color:rgb(255,255,225);
-	font-family:Arial;
-	color:green;
+header{
+	background-color:#0000FF;
+}
+h1{
+	color:#000055;
+	text-align:center;
+	font-size:150%;
+}
+header p{
+	font-size:125%;
 }
 a{
-	color:green;
-	font-family:Times;
-	background-color:#DDDD00;
+	color:#0000FF;
+	text-decoration:none;
+}
+dd{
+	font-style:italic;
+}
+@media not print{
+	footer{
+		display:none;
+	}
+}
+dt{
+	font-size:125%;
+}
+dl{
+	background-color:#00FFCC;
+}
+body{
+	background-color:#00FF00;
+}
+dl,header{
+	margin:3px;
 }
