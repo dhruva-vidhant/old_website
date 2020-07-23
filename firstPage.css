@@ -1,5 +1,6 @@
 body{
 	font-family:arial;
+	background-color:#00FF00;
 }
 header{
 	background-color:#0000FF;
@@ -29,9 +30,6 @@ dt{
 }
 dl{
 	background-color:#00FFCC;
-}
-body{
-	background-color:#00FF00;
 }
 dl,header{
 	margin:3px;
