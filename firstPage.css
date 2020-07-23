@@ -52,7 +52,7 @@ nav.topnav a:hover{
 header{
 	clear:both;
 }
-header p a{
+header p a, header nav:not(.topnav) a{
 	color:#FF99CC;
 	text-decoration:underline;
 }
