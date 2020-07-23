@@ -22,7 +22,7 @@ dd{
 	font-style:italic;
 }
 @media not print{
-	footer:not(.fp){
+	footer{
 		display:none;
 	}
 }
