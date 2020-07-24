@@ -1,7 +1,7 @@
 html{
 	font-family:arial;
 	background-color:#00FF00;
-	margin:12px;
+	margin:24px;
 }
 header{
 	background-color:#0000FF;
@@ -40,17 +40,12 @@ nav a{
 }
 nav.topnav a{
 	display:inline-block;
-	width:30%;
-	float:right;
+	width:33%;
 	text-align:center;
-	margin:2px;
 	background-color:#FF99CC;
 }
 nav.topnav a:hover{
 	background-color:#C0C0C0;
-}
-header{
-	clear:both;
 }
 header p a, header nav:not(.topnav) a{
 	color:#FF99CC;
