@@ -68,3 +68,29 @@ dt{
 h2{
 	font-size:125%;
 }
+nav.botnav a{
+	display:inline;
+	font-size:140%;
+}
+nav.botnav{
+	background-color:inherit;
+	text-align:center;
+}
+footer.fp{
+	clear:both;
+	background-color:#00CCFF;
+}
+img.fp{
+	width:120px;
+}
+h2.fp{
+	font-size:150%;
+	background-color:#00CCFF;
+}
+section.fp{
+	display:inline-block;
+	width:30%;
+	float:left;
+	background-color:inherit;
+	margin:5px;
+}
