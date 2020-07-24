@@ -54,7 +54,7 @@ header p a, header nav:not(.topnav) a{
 	text-decoration:underline;
 }
 nav:not(.topnav),section{
-	background-color:#00FFCC;
+	background-color:#99CCFF;
 }
 nav:not(.topnav) a{
 	margin:4px;
